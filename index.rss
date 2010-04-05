@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>David O'Hara's Git Achievements</title>
+<item><title>Apprentice Traveler (Level 2)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Let there be light</title><description>Commit without a parent.</description></item>
 </channel></rss>
